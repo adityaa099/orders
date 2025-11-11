@@ -3,14 +3,14 @@
 A simple Linux-based project that demonstrates how to manage and track e-commerce orders using shell commands and Git.
 
 ## 📁 Project Structure
-
+```
 orders/
 ├── pending/             # Stores new/pending orders
 ├── completed/           # Contains completed orders
 ├── logs/                # Logs movement and disk usage
 ├── .gitignore           # Excludes backups (*.tar.gz)
 └── completed_backup.tar.gz (ignored)
-
+```
 ---
 
 ## ⚙️ Features
