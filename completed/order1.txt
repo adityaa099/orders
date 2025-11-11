@@ -1,0 +1,10 @@
+OrderID: 001 | Product: Pen | Qty: 10 | Price: 10
+OrderID: 002 | Product: Notebook | Qty: 5 | Price: 50
+OrderID: 003 | Product: Pencil | Qty: 20 | Price: 5
+OrderID: 004 | Product: Eraser | Qty: 8 | Price: 5
+OrderID: 005 | Product: Ruler | Qty: 3 | Price: 15
+OrderID: 006 | Product: Marker | Qty: 6 | Price: 25
+OrderID: 007 | Product: Sharpener | Qty: 5 | Price: 10
+OrderID: 008 | Product: Glue Stick | Qty: 4 | Price: 20
+OrderID: 009 | Product: File Folder | Qty: 2 | Price: 30
+OrderID: 010 | Product: Stapler | Qty: 1 | Price: 100
